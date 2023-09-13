@@ -1,6 +1,6 @@
 # HobbitURL
 
-HobbitURL is a url shortening service Web API.
+HobbitURL is a url shortening service .NET Web API.
 To run the API, you need to first navigate to the path where the .csproj file is located in the terminal. First you should restore dependicies with:
 - dotnet restore
 
